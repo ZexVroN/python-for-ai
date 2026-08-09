@@ -124,19 +124,14 @@ This is the beginning of my Python for AI journey.
 
 
 
-\## 🎯 Goal
+## Goal
 
+Build a strong foundation in Python programming and software development before moving into:
 
+- Backend Development
+- Data Processing
+- Artificial Intelligence
+- AI Applications
 
-Build a strong Python foundation and gradually progress toward:
-
-
-
-\*\*Python → Data → AI → AI Applications\*\*
-
-
-
-This repository documents the process, experiments, mistakes, and progress along the way.
-
-
+This repository documents my learning journey from zero to practical AI development.
 
