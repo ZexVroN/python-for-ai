@@ -29,7 +29,7 @@ print(f"Fruits = {fruits}")
 # Add list
 fruits = ["Mango", "Banana", "Orange"]
 fruits.append("Kiwi")
-print(f"Fruits after add = {fruits}")
+print(f"Fruits after add = {fruits}")  #
 
 # Remove list from value
 fruits = ["Mango", "Banana", "Orange", "Peach", "Watermelon"]
@@ -65,4 +65,6 @@ total = len(numbers)
 for i in range(total):
     print(f"{i + 1}. Numbers = {numbers[i]}")
 
-print(f"List after sort = {numbers.sort()}")
+# Sort()
+no = [3, 2, 5, 6, 9, 3, 1]
+print(f"List after sort = {no.sort()}")
