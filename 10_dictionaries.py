@@ -59,3 +59,6 @@ Students = {
 }
 
 print(Students)
+
+print(Students["Deni"]["Grade"])
+print(f"Deni Grade is {Students['Deni']['Grade']}")
